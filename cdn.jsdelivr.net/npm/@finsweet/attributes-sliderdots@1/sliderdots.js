@@ -45,7 +45,7 @@
   }
   var Q = `${m}-support`,
     J =
-      "https://cdn.jsdelivr.net/npm/@finsweet/attributes-support@1/support.js",
+      "https://cdn.jsdelivr.net/npm/@finsweet/attributes-support@1support.html.js",
     N = async () => {
       let { fsAttributes: t, location: e } = window,
         { host: r, searchParams: o } = new URL(e.href);

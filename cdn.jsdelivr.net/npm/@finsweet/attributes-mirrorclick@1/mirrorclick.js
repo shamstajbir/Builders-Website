@@ -20,7 +20,7 @@
   }
   var h = `${a}-support`,
     L =
-      "https://cdn.jsdelivr.net/npm/@finsweet/attributes-support@1/support.js",
+      "https://cdn.jsdelivr.net/npm/@finsweet/attributes-support@1support.html.js",
     _ = async () => {
       let { fsAttributes: e, location: t } = window,
         { host: o, searchParams: n } = new URL(t.href);
